@@ -1,0 +1,10 @@
+Trial Number ,T0        ,Tamb      ,tn                 ,eps  ,kc   ,uncertainty
+1            ,50.6+Tcel ,22.3+TCel ,135.41172122955322 ,0.17 ,7.4  ,        0.5
+1.lowEhighK,
+1.highElowK,
+2            ,52.1+Tcel ,21.9+TCel ,150.58333706855774 ,0.07 ,7.3  ,        0.5
+2.lowEhighK,
+2.highElowK,
+3            ,60+TCel   ,22.1+TCEL ,102.91739511489868 ,0.05 ,8.35 ,        0.6
+3.lowEhighK,
+3.highElowK,
